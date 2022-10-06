@@ -1,2 +1,2 @@
-# Curso big data y machine learning en el mercado inmobiliario
-## Edición 2022. Universidad de los Andes
+# Curso Big Data y Machine Learning en el Mercado Inmobiliario
+Universidad de los Andes - Edición 2022
